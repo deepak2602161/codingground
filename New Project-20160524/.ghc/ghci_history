@@ -1,0 +1,15 @@
+ dsm' 105
+ dsm 105
+ :load Script.hs
+ dsm 105
+ :load Script.hs
+ dsm 105
+ dsm 56
+ :load Script.hs
+ :set editor Script.hs
+ :set editor Script.hs
+ : set editor Script.hs
+ dsm 56
+ :load Script.hs
+ :load Script.hs
+:set prompt "ghci>"
