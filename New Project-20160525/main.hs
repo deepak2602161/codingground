@@ -1,0 +1,1 @@
+ghcimain = putStrLn "hello world"
